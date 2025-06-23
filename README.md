@@ -37,6 +37,8 @@ This project showcases **advanced SQL techniques** applied to a **Data Warehouse
 
 ## 🔗 **Part of My Data Warehouse Project**
 👉 [View the full project here](https://github.com/parthkumarmpatel/SQL-Data-Warehouse)
+## 🔗 **Part of My EDA Project**
+👉 [View the full project here](https://github.com/parthkumarmpatel/SQL-Exploratory-Data-Analysis)
 
 ---
 
